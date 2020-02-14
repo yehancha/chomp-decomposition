@@ -6,3 +6,4 @@ vagrant-venv/
 .cache/
 *.swp
 *.prm
+.vscode/
